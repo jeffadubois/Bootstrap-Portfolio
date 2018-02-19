@@ -16,14 +16,14 @@ body {
 .navbar-custom {
   border-bottom: 2px solid #efefef;
   margin-bottom: 60px;
-  background: gray;
+ background: gray;
 
 }
 
 
 .navbar-brand {
    color: white;
-   background-color:gray;
+    background-color:white;
    font-family: 'Helvetica', cursive;
    font-size: 40px;
    font-weight: 700;
