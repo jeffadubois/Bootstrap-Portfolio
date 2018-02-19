@@ -61,6 +61,14 @@ img {
   float: left;
   margin-top: 10px;
   margin-right: 25px;
+  margin-bottom: 25px;
+   max-height: 50%;
+   max-width: 50%;  
+}
+
+.thumbnail img {
+    max-height: 50%;
+    max-width: 50%;
 }
 
 /*styling for sidebar*/
@@ -121,3 +129,9 @@ h3 {
   -webkit-transition-timing-function: cubic-bezier(0.47, 2.02, 0.31, -0.36);
   transition-timing-function: cubic-bezier(0.47, 2.02, 0.31, -0.36);
 }
+.sublitem {
+   paddling-left: 40px;
+   margin-left: 60px;
+}
+
+
